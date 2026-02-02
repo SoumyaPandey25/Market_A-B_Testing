@@ -1,0 +1,10 @@
+Final Recommendations:
+
+This A/B test compared the conversion rates of PSA (control) and Ad (test) campaigns.
+
+The Ad campaign achieved a higher conversion rate (2.55%) compared to the PSA campaign (1.78%).
+A two-sample t-test resulted in a p-value of 1.7e-13, which is well below the significance level of 0.05.
+
+The 95% confidence interval for the difference in conversion rates does not include zero, indicating a reliable positive effect.
+
+Based on the statistical and business results, we recommend rolling out the Ad campaign as it leads to a significantly higher conversion rate.
